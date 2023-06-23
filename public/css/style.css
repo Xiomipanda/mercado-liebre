@@ -1,0 +1,55 @@
+/* Estilos generales 
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    background-color: #EAC926;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  p {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+  }
+  .fas {
+    margin-right: 100px; 
+    
+  }
+  .price {
+    font-size: 18px;
+  }
+  
+  .discount {
+    font-size: 16px;
+  }
+  
+  
+  .cta{
+   text-align: center;
+  }
+  .navbar {
+    background-color: #03264C;
+    color: #ebebeb;
+    padding: 10px;
+  }
+  
+  .login-bar {
+    background-color: #1259c3;
+    color: #ebebeb;
+    padding: 10px;
+  }
+  
+  .search-bar {
+    background-color: none;
+    color: #666;
+    padding: 0px;
+  }
+  .icon{
+    color: #666;
+  }
+  
+  .
+  */
